@@ -85,7 +85,7 @@ AVAILABLE_TOOLS = [
 
 # Set up the model
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash-latest",
+    model_name="gemini-2.5-flash",
     system_instruction=MASTER_SYSTEM_PROMPT,
     tools=AVAILABLE_TOOLS
 )
