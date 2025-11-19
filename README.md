@@ -3,8 +3,7 @@
 **Live Demo:** https://credflow-frontend-132825211942.us-central1.run.app  
 **Blog Post:** [Link to your Medium/Blog post]  
 **Demo Video:** [Link to your YouTube/Loom video]
-**Demo FE:** lovable.dev/projects/dd1e7b9b-a49f-4e56-8f5c-ed92087aa31f?view=codeEditor
-
+**Demo FE:** https://lovable.dev/projects/dd1e7b9b-a49f-4e56-8f5c-ed92087aa31f?view=codeEditor
 
 ---
 
